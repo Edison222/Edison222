@@ -6,12 +6,7 @@ I'm a passionate Computer Science student who loves technology and coding. Here'
 - 🎓 I’m studying Computer Science at **CCNY**.
 - 🚀 I'm open to job opportunities in Software Engineering.
 
----
 
-🔥 **GitHub Streak:** 🔥  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Edison222&theme=highcontrast)](https://git.io/streak-stats)
-
----
 
 📊 **GitHub Stats:**  
 ![Edison222's GitHub stats](https://github-readme-stats.vercel.app/api?username=Edison222&show_icons=true&theme=radical)
