@@ -13,6 +13,12 @@ I'm a passionate Computer Science student who loves technology and coding. Here'
 
 ---
 
+
+🔥 **GitHub Streak:** 🔥  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Edison222&theme=highcontrast)](https://git.io/streak-stats)
+
+---
+
 ### 🛠 Tech Stack
 
 #### Languages
