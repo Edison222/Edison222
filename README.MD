@@ -3,12 +3,12 @@
 I'm a passionate Computer Science student who loves technology and coding. Here's a little bit about me:
 
 - 💻 I’m currently working on JavaScript projects and learning Next.js.
-- 🎓 I’m studying Computer Science at **ccny**.
+- 🎓 I’m studying Computer Science at **CCNY**.
 - 🚀 I'm open to job opportunities in Software Engineering.
 
 ---
 
-🔥 **GitHub Streak:** 🔥
+🔥 **GitHub Streak:** 🔥  
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Edison222&theme=highcontrast)](https://git.io/streak-stats)
 
 ---
@@ -41,6 +41,7 @@ I'm a passionate Computer Science student who loves technology and coding. Here'
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
 ---
 
 ### 📫 How to reach me:
