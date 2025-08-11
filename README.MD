@@ -6,17 +6,13 @@ Welcome to my GitHub profile! I'm a passionate **Computer Science student** who 
 
 ## 💻 Currently Working On:
 - **JavaScript projects** and diving into **Next.js**.
+- Diving into Data Science and ML
 - Exploring new technologies and enhancing my coding skills.
 
 ---
 
 ## 🎓 Education
-- **Studying Computer Science at CCNY**.
-
----
-
-## 🚀 Opportunities
-- Actively seeking **Software Engineering** job opportunities!
+- **Studying Computer Science at CCNY (Senior)**.
 
 ---
 
