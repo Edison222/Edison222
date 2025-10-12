@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a passionate **Computer Science student** who 
 ---
 
 ## 💻 Currently Working On:
-- **JavaScript projects** and diving into **Next.js**.
+- **JavaScript projects**.
 - Diving into Data Science and ML
 - Exploring new technologies and enhancing my coding skills.
 
