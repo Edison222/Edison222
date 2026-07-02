@@ -1,12 +1,12 @@
 # 👋 Hey, I'm Edison Florian
 
-🚀 **Senior Computer Science Student @ CCNY**  
+🚀 **B.S. Computer Science @ CCNY**  
 💡 Passionate about building **AI-powered applications** and scalable full-stack systems  
 
 ---
 
 ## 🧠 About Me
-- 🎓 Senior at **City College of New York (CUNY)**
+- 🎓 BS CS at **City College of New York (CUNY)**
 - ☁️ Cloud & AI-focused developer (Azure, APIs, automation)
 - 🛠️ Experience building real-world applications with measurable impact
 - 🎯 Actively seeking **Software Engineering / AI roles (2026)**
